@@ -34,6 +34,11 @@ jobs:
           git clone https://github.com/zhy617/steam-box.git 
           cd steam-box && go build -o steam ./cmd/box/main.go
           mv ./steam ../ && cd .. && rm -rf steam-box/
+      - name: Debug Secrets
+        run: |-
+          echo "GH_TOKEN: ${{ secrets.GH_TOKEN }}"
+          echo "STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}"
+          echo "STEAM_ID: ${{ secrets.STEAM_ID }}"
 
       - name: Commit and push
         run: |-
