@@ -17,10 +17,10 @@ You can click the Preview link to take a look at your changes.
 #### <a href="https://gist.github.com/441944f130dd5c4f3aee8056c837f8e6" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
 🎮 Apex Legends                     🕘 521 hrs 43 mins
-💻 Wallpaper Engine                 🕘 97 hrs 17 mins
-🔫 Counter-Strike 2                 🕘 55 hrs 44 mins
-🎮 The Witcher 3: Wild Hunt         🕘 50 hrs 11 mins
 🎮 Dying Light                      🕘 45 hrs 32 mins
+🎮 STEINS;GATE                      🕘 29 hrs 40 mins
+🎮 Metro Exodus                     🕘 24 hrs 6 mins
+🎮 STEINS;GATE 0                    🕘 20 hrs 30 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
