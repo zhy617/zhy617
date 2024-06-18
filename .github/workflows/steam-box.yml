@@ -41,6 +41,9 @@ jobs:
           echo "STEAM_ID: ${{ secrets.STEAM_ID }}"
 
       - name: Commit and push
+        env:
+          # 使用 GH_TOKEN 进行身份验证
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |-
           ./steam
           git config --global user.email "bot@github.com" && git config --global user.name "Steam-Bot"
