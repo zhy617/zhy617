@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 ```text
 🎮 Apex Legends                     🕘 560 hrs 46 mins
 🎮 Dying Light                      🕘 45 hrs 32 mins
-🎮 STEINS;GATE                      🕘 31 hrs 11 mins
+🎮 STEINS;GATE                      🕘 31 hrs 50 mins
 🎮 Metro Exodus                     🕘 24 hrs 6 mins
 🎮 STEINS;GATE 0                    🕘 20 hrs 30 mins
 ```
