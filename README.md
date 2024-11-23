@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/441944f130dd5c4f3aee8056c837f8e6" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
-🎮 Apex Legends                     🕘 642 hrs 19 mins
+🎮 Apex Legends                     🕘 643 hrs 19 mins
 🎮 Dying Light                      🕘 45 hrs 32 mins
 🎮 STEINS;GATE                      🕘 31 hrs 50 mins
 🎮 Metro Exodus                     🕘 24 hrs 6 mins
