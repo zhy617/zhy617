@@ -17,10 +17,10 @@ You can click the Preview link to take a look at your changes.
 #### <a href="https://gist.github.com/356d299b164c96cecbb18113a1b8d01b" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
 🎮 Apex Legends                     🕘 804 hrs 59 mins
-🎮 Dying Light                      🕘 45 hrs 32 mins
-🎮 STEINS;GATE                      🕘 31 hrs 50 mins
-🎮 Metro Exodus                     🕘 24 hrs 6 mins
-🎮 STEINS;GATE 0                    🕘 20 hrs 30 mins
+🎮 Battlefield™ 2042                🕘 133 hrs 39 mins
+💻 Wallpaper Engine                 🕘 110 hrs 6 mins
+🎮 Black Myth: Wukong               🕘 74 hrs 38 mins
+🔫 Counter-Strike 2                 🕘 55 hrs 44 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
