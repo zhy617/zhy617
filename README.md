@@ -1,6 +1,6 @@
 - 👋 Hi, I’m zhy, a student from HUST
-- 👀 I’m interested in OS and Data Storage
-- 🌱 I’m currently learning CSAPP and data base
+- 👀 I’m interested in ML and MLSys
+- 🌱 I’m currently learning Pytorch, CUDA and Distributed ML
 - 💞️ I’m looking to collaborate on HUST assignments :(
 - 📫 How to reach me: send email to zhanghongyu0501@qq.com
 - 😄 Pronouns: I'm also an ACGN lover
