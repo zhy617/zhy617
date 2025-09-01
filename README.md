@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/356d299b164c96cecbb18113a1b8d01b" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
-🎮 Apex Legends                     🕘 879 hrs 14 mins
+🎮 Apex Legends                     🕘 892 hrs 13 mins
 🎮 Battlefield™ 2042                🕘 133 hrs 39 mins
 💻 Wallpaper Engine                 🕘 110 hrs 8 mins
 🎮 Black Myth: Wukong               🕘 74 hrs 38 mins
