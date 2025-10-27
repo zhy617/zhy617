@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 ```text
 🎮 Apex Legends                     🕘 967 hrs 10 mins
 🎮 Battlefield™ 2042                🕘 133 hrs 39 mins
-💻 Wallpaper Engine                 🕘 110 hrs 8 mins
+💻 Wallpaper Engine                 🕘 110 hrs 12 mins
 🎮 Black Myth: Wukong               🕘 74 hrs 38 mins
 🔫 Counter-Strike 2                 🕘 55 hrs 44 mins
 ```
