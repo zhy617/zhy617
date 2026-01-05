@@ -18,8 +18,8 @@ You can click the Preview link to take a look at your changes.
 ```text
 🎮 Apex Legends                     🕘 970 hrs 40 mins
 🎮 Battlefield™ 2042                🕘 133 hrs 39 mins
+🎮 Battlefield™ 6                   🕘 130 hrs 1 mins
 💻 Wallpaper Engine                 🕘 110 hrs 22 mins
-🎮 Battlefield™ 6                   🕘 109 hrs 8 mins
 🎮 Black Myth: Wukong               🕘 74 hrs 38 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
