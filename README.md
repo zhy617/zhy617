@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 #### <a href="https://gist.github.com/356d299b164c96cecbb18113a1b8d01b" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
 🎮 Apex Legends                     🕘 970 hrs 40 mins
-🎮 Battlefield™ 6                   🕘 172 hrs 18 mins
+🎮 Battlefield™ 6                   🕘 173 hrs 40 mins
 🎮 Chill with You Lo-Fi Story       🕘 160 hrs 4 mins
 🎮 Battlefield™ 2042                🕘 133 hrs 39 mins
 💻 Wallpaper Engine                 🕘 110 hrs 22 mins
