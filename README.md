@@ -18,9 +18,9 @@ You can click the Preview link to take a look at your changes.
 ```text
 🎮 Apex Legends                     🕘 970 hrs 40 mins
 🎮 Battlefield™ 6                   🕘 175 hrs 27 mins
-🎮 Chill with You Lo-Fi Story       🕘 160 hrs 4 mins
+🎮 Chill with You Lo-Fi Story       🕘 160 hrs 10 mins
 🎮 Battlefield™ 2042                🕘 133 hrs 39 mins
-💻 Wallpaper Engine                 🕘 110 hrs 24 mins
+💻 Wallpaper Engine                 🕘 110 hrs 25 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
